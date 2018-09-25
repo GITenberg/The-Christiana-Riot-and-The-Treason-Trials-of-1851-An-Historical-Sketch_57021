@@ -1,11 +1,16 @@
 _repo: The-Christiana-Riot-and-The-Treason-Trials-of-1851-An-Historical-Sketch_57021
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57021-h/images/cover.jpg
 creator:
   author:
     agent_name: Hensel, W. U.
     gutenberg_agent_id: '49147'
     url: http://www.gutenberg.org/2009/agents/49147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57021#The-Christiana-Riot-and-The-Treason-Trials-of-1851-An-Historical-Sketch
 gutenberg_issued: '2018-04-22'
 gutenberg_type: Text
 identifiers:
